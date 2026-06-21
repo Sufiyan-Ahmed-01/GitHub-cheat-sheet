@@ -44,6 +44,9 @@ git checkout -b <- new branch name -> (to create new branch)
 
 git branch -d <- branch name -> (to delete branch)
 
+git push origin --delete <- branch name -> (to delete from github)
+ 
+
 # Merging code
 
 git diff <- branch name-> (to compare commits, branches, files & more)
