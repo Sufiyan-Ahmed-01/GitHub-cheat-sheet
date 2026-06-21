@@ -14,3 +14,21 @@ git add .
 git commit -m "Your commit message"
 git push origin main
 
+
+
+# init - used to create a new git repo
+
+git init
+
+git remote add origin <- link ->
+
+git branch (to check branch)
+
+git remote -v (to verify remote)
+
+git branch -M main (to rename branch)
+
+git push origin main
+
+
+
