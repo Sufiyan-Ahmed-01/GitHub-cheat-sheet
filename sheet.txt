@@ -1,0 +1,15 @@
+# Clone repository (Only once)
+git clone <repo-url>
+cd <repo-name>
+code .
+
+# Before starting work (Recommended)
+git pull origin main
+
+# Make your changes...
+
+# Upload changes to GitHub
+git status
+git add .
+git commit -m "Your commit message"
+git push origin main
